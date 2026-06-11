@@ -1,0 +1,14 @@
+apiVersion: v2
+name: sd-correspondent-bank-management
+description: "BIAN Service Domain: Correspondent Bank Management (Manage pattern, Operations and Execution)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - bian
+  - manage
+annotations:
+  bian/business-area: "Operations and Execution"
+  bian/business-domain: "Payments"
+  bian/asset-type: "Correspondent Arrangement"
+  bian/control-record: "Correspondent Arrangement Management Plan"
